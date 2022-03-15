@@ -17,6 +17,7 @@ A distinction is made between teams and franchises in MLB. A franchise is a coll
 A franchise might undergo many changes during their history, such as changing their name, moving to a new city or chaning a league. Some of these changes will result in the franchise ending one team and starting another, but it will still be the same franchise.
 
 In this section, we explored some historical statistics relating to franchises:
+
     - B.1 Number of Franchises by Year: Determine the number of MLB franchises that existed each year.
     
     - B.2 Franchise Statistics: Calculate a few statistics for each franchise that has ever existed.
@@ -41,11 +42,17 @@ We can use the following formulas with the respective columns: H, 2B, 3B, HR, an
  </p>
 
 We explore the following:
+
     - C.1 Calculating Career Statistics: Calculate career statistics for each MLB batter.
+    
     - C.2 Most Seasons Player: Identify the 10 batters who have played in the most seasons.
+    
     - C.3 Most At-Bats: Identify the 10 batters who have had the greatest number of at-bats.
+    
     - C.4 Highest Batting Average: Identify the 10 batters who have the highest batting averages.
+    
     - C.5 Highest Slugging Percentage: Identify the 10 batters who have the slugging percentages.
+    
     - C.6 Relationship between Batting Average and Slugging Percentage
 
 ## Section D: Trends over Time
