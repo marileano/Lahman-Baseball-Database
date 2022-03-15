@@ -1,4 +1,4 @@
-# Lahmann-Baseball-Database
+# Lahman-Baseball-Database
 This is a group project I worked on with my classmates. This project uses pyspark ML and created a SparkSession object. The project was created in Databricks. The project is arranged into sections (Section A, B, etc.) and subsections.
 
 ## Project Objective
