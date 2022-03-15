@@ -59,20 +59,41 @@ We explore the following:
 In this section we explore how certain statistics have changed during the history of the MLB.
 
 We explore the following:
+
     - D.1 Calculating Averages by Year: Calculate the average height and weight of players by year, as well as the overall batting averages and slugging percentages for all players by year.
+    
     - D.2 Trends for Height and Weight
+    
     - D.3 Trends for Batting Statistics
+    
     - D.4 Trends for American and National Leagues
+    
     - D.5 Average Number of Games: Determine the average number of games played by each team during each MLB season.
     
 ## Section E: Pitching Data
 This section will explore the pitching data by starting off with looking at some all time career records, as well as looking deeper into performance statistics and doing some custom analysis of pitchers' performance all time and in recent years to determine interesting trends and useful data about modern pitching performance.
 
 We explore the following:
+
     - E.1 Most Winning Pitchers: Examine the most winning pitcher of all time and produce a plot outlining some stats over his career.
+    
     - E.2 Pitchers with Most Shutouts in a Single Year: Analyze pitching data by year and display the pitchers with most shutouts in a single season.
+    
     - E.3 Pithcers Least Hits against Average: Investigate the batting average against data by finding the pitchers who faced at least 100 batters in the year 2020.
+    
     - E.4 Pitchers with Best Batting: Which pitchers contributed the most on both sides of the game.
+    
     - E.5 Pitchers Risk Score: Investigate how likely a pitcher will score.
 
 ## Section F: Qualification for the Hall of Fame
+In this section we will explore different metrics for a player to be considered into the Hall of Fame.
+
+We explore the following:
+
+    - F.2 Hall of Fame Voting System: Determine where the number of votes come from in `votedBy`.
+    
+    - F.3 Player's Service Years Versus Induction: Determing relationship between the number of years the player plays to be admitted to Hall of Fame and how many years of consideration it took to be voted in.
+    
+    - F.4 Player's Baseball Skill Analysis: Batting Average and Slugging Percentage. 
+    
+    - F.5 Player's Salary Analysis: Compare the salary of players who have been inducted versus salary of overall data.
