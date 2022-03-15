@@ -18,10 +18,15 @@ A franchise might undergo many changes during their history, such as changing th
 
 In this section, we explored some historical statistics relating to franchises:
     - B.1 Number of Franchises by Year: Determine the number of MLB franchises that existed each year.
+    
     - B.2 Franchise Statistics: Calculate a few statistics for each franchise that has ever existed.
+    
     - B.3 Franchises with the Most Names: Determine the greatest number of names that have been used by any one franchise.
+    
     - B.4 Age of Current Franchises: Determine the ages of the 30 current franchises.
+    
     - B.5 Franchises with Best Win/Loss Ratios: Identify the 10 franchises who have the best win/loss ratios.
+    
     - B.6 Win/Loss Ratios in Recent Years: Calculate the win/loss ratio for each of the current franchises during the period since 1998.
     
 ## Section C: Batter Statistics
